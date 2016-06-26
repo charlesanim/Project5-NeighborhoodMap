@@ -4,6 +4,16 @@ Udacity Neighborhood Map Project
 Do you like eating out but don't enjoy paying full price?  Find deals on the fly, try it out here: (http://charlesanim.github.io/Project5-NeighborhoodMap) 
 
 ***
+Instructions to run app
+-------
+
+* Open index.html
+* Click on the compass or location finder button to pinpoint your location
+* Proceed to search in the search bar beneath the location finder to find deals near you
+* Click on the location marker for more info about the place or filter the listings to your choice
+* Venue ratings, directions and contact inforamtion are available to help you get your deal
+
+***
 
 Features
 -------
